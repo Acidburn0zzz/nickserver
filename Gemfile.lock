@@ -45,7 +45,7 @@ GEM
     http_parser.rb (0.6.0)
     minitest (5.9.0)
     nio4r (1.2.1)
-    rake (11.2.2)
+    rake (13.0.3)
     reel (0.6.1)
       celluloid (>= 0.15.1)
       celluloid-io (>= 0.15.0)
