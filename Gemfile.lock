@@ -8,7 +8,8 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     byebug (9.0.5)
     celluloid (0.17.3)
       celluloid-essentials
@@ -45,6 +46,7 @@ GEM
     http_parser.rb (0.6.0)
     minitest (5.9.0)
     nio4r (1.2.1)
+    public_suffix (4.0.6)
     rake (11.2.2)
     reel (0.6.1)
       celluloid (>= 0.15.1)
